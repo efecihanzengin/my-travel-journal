@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  background-color: #f55a5a;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 5px;
+  padding: 20px;
+}
