@@ -15,3 +15,12 @@ body {
   gap: 5px;
   padding: 20px;
 }
+
+.photo-photo {
+  width: 125px;
+  height: 175px;
+}
+
+.card {
+  display: flex;
+}
